@@ -1,0 +1,4 @@
+Documentação:
+https://www.beyondtrust.com/docs/password-safe/documents/ps/6-9/ps-api-6-9-0.pdf
+
+https://www.beyondtrust.com/docs/password-safe/documents/ps/6-9/ps-admin-6-9-0.pdf
